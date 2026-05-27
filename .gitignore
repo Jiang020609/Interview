@@ -4,3 +4,14 @@
 [Oo]bj/
 .vscode/
 *.exe
+__pycache__/
+.pytest_cache/
+.env
+.venv/
+venv/
+*.pyc
+.DS_Store
+outputs/
+runs/
+*.log
+_private/
